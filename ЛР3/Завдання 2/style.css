@@ -1,0 +1,15 @@
+table, td{
+    border: 1px solid black;
+}
+
+td{
+    padding: 50px;
+}
+.selected {
+    background-color: yellow;
+ }
+ 
+ .table{
+    margin: 30px;
+ }
+ 
